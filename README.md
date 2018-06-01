@@ -30,3 +30,7 @@ now we are goint to register our device -:
 
 
 go to google cloud console click on the registry you will see the device has been registerd.
+![image6](https://user-images.githubusercontent.com/19189211/40848847-f8823a22-65dd-11e8-8963-d15ef5c31560.png)
+
+
+
