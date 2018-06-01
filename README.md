@@ -35,6 +35,10 @@ go to google cloud console click on the registry you will see the device has bee
 go to edit registry
 ![image7](https://user-images.githubusercontent.com/19189211/40849020-7b075e78-65de-11e8-9abf-e836d615ccf9.png)
 
+set pubsub topic
+![image8](https://user-images.githubusercontent.com/19189211/40849111-b2b63858-65de-11e8-915e-6664364641d1.png)
+
+
 
 
 
