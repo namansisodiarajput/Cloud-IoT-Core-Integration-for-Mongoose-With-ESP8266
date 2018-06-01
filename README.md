@@ -24,5 +24,9 @@ now connect esp8266 to your laptop for windows run mos.exe to see the interface 
 choose port,esp8266,demo.js and specify your wifi details.
 
 now we are goint to register our device -:
-1.gcloud projects list (note down your projectID of project)
-2.go to terminal section of mongoose ui run the following command -: mos gcp-iot-setup --gcp-project YOUR_PROJECT_ID --gcp-region europe-west1 --gcp-registry iot-registry
+1. gcloud projects list (note down your projectID of project)
+2. go to terminal section of mongoose ui run the following command -: mos gcp-iot-setup --gcp-project YOUR_PROJECT_ID --gcp-region europe-west1 --gcp-registry iot-registry
+![image5](https://user-images.githubusercontent.com/19189211/40848603-58e082b2-65dd-11e8-940d-0874162a76fb.png)
+
+
+go to google cloud console click on the registry you will see the device has been registerd.
